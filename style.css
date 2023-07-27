@@ -1,0 +1,17 @@
+.cabeçalho {background-color: rgb(111, 25, 192);
+background-color: cadetblue;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.imagem1 {
+    width: 10%;
+}
+.escola{
+    background-image: linear-gradient(rgb(51, 50, 50) rgb(189, 27, 189));
+    display: flex;
+}
+
+.imagem2{width: 20%;}
